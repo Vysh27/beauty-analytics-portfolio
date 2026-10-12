@@ -1,0 +1,4 @@
+model,mape_pct,rmse
+Seasonal-naive,13.67,109.4
+Holt-Winters,9.64,82.2
+SARIMA,9.31,69.1

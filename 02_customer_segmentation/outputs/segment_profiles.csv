@@ -1,0 +1,5 @@
+cluster,customers,recency,frequency,monetary,segment,revenue_share
+0,1124,17.0,13.0,31899.315000000002,Champions,0.556
+3,1922,53.0,7.0,8955.215,Loyal,0.281
+2,1172,316.5,4.0,5833.235,At Risk (high value),0.118
+1,1782,313.5,1.0,1509.045,Hibernating,0.045
