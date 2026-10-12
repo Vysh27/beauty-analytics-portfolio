@@ -1,0 +1,14 @@
+# Generated data (reproducible — run generate_data.py)
+*/data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Keep outputs/ committed so result charts render on GitHub.
